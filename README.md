@@ -14,7 +14,7 @@ This repository contains:
 	4) Oscillator with theoretically zero phase diffusion (stops after 50 time units).
 	3) Oscillator with theoretically zero phase diffusion (stops after 200 time units).
 	
-	Figure 5 of the manuscript can also be generated with this code by defining D_phi = sigma^2*sqrt(tmax) and using different values of That and k.
+	Figure 5 of the manuscript can also be generated with this code by defining D_phi = sigma^2 and using different values of That and k.
 
 ## Usage
 
